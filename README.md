@@ -9,6 +9,8 @@ This data package is used for a pair of articles:
 * ["Boost your CNN image classifier performance with progressive resizing in Keras"](https://blog.quiltdata.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-c215127bf55b)
 * ["Building a fully reproducible machine learning pipeline with Comet.ml and Quilt"](https://medium.com/@ceceliashao/aa9c7bf85e72)
 
+See also the [`ResidentMario/progressive-resizing`](https://github.com/ResidentMario/progressive-resizing) and [`comet-ml/keras-fruit-classifier`](https://github.com/comet-ml/keras-fruit-classifer) repositories, which contain the model builds that use this package.
+
 To rebuild this dataset from scratch:
 
 1. Run `notebooks/initial-exploration.ipynb`, to download the image metadata.
